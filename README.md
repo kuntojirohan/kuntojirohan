@@ -2,6 +2,12 @@
 
 I'm Rohan Kuntoji (he/him), currently pursuing my Masters in Financial Data Science at UCD Michael Smurfit Graduate Business School 👨‍🎓  
 
+* Interested in asset management and quantitative finance whereby we leverage the technological prowess to enhance portfolio management
+* Focusing on derivatives pricing and Fixed Income portfolio construction/management using data science and AI
+* Always eager to collaborate on projects related to quantitative finance
+* You can reach me: 📧 rohan.kuntoji@gmail.com 
+
+
 <!--
 **kuntojirohan/kuntojirohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
