@@ -1,4 +1,6 @@
-### Hi there 👋
+### Heyya!! 👋
+
+I'm Rohan Kuntoji (he/him), currently pursuing my Masters in Financial Data Science at UCD Michael Smurfit Graduate Business School 👨‍🎓  
 
 <!--
 **kuntojirohan/kuntojirohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
