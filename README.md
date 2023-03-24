@@ -5,7 +5,7 @@ I'm Rohan Kuntoji (he/him), currently pursuing my Masters in Financial Data Scie
 * 🧐 Interested in quantitative research, where we leverage technological advancements in data science & AI to augment portfolio construction & management 💸
 * 📈 Focusing on security pricing and portfolio construction methods using Machine Learniing and Natural Language Processing
 * 👯 Always eager to collaborate on quantitative finance projects, be it asset price forecasting or portfolio optimisation problems
-* 🪄 Fun fact: I play ukulele everyday 🎸, and am also learning to speak in French 🇫🇷 
+* 🪄 Fun fact: I play ukulele everyday 🎸, and am also learning to speak/understand French 🇫🇷 
 * 📧 You can reach me @ rohan.kuntoji@gmail.com 
 
 
