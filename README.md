@@ -1,8 +1,8 @@
 ### Heyya!! 👋
 
-I'm Rohan Kuntoji (he/him), currently pursuing my Masters in Financial Data Science at UCD Michael Smurfit Graduate Business School 👨‍🎓, and also studying for the CAIA Charter Programme as a CAIA L1 Candidate Sep '23 🙇‍📚  
+I'm Rohan Kuntoji (he/him), currently pursuing my Masters 👨‍🎓 in Financial Data Science at UCD Michael Smurfit Graduate Business School, Dublin 🇮🇪. I'm also working toward my CAIA (Chartered Alternative Investment Analyst) Charter as a CAIA L1 Candidate Sep '23 🙇‍📚  
 
-* 🧐 Interested in quantitative research, where we leverage technological advancements in data science & AI to augment portfolio construction & management 💸
+* 🧐 Interested in quantitative research, where we leverage technological advancements in econometrics, data science & AI to augment portfolio construction & management 💸
 * 📈 Focusing on security pricing and portfolio construction methods using Machine Learning and Natural Language Processing
 * 🤝 Always eager to collaborate on Quant finance projects, be it asset price forecasting or portfolio optimisation problems
 * ✨ Fun fact: I play ukulele everyday 🎸, I am also actively learning the French language on Duo 🇫🇷 
