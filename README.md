@@ -6,7 +6,7 @@ I'm Rohan Kuntoji (he/him), currently pursuing my Masters 👨‍🎓 in Financi
 * 📈 Focusing on security pricing and portfolio construction methods using Machine Learning and Natural Language Processing
 * 🤝 Always eager to collaborate on Quant finance projects, be it asset price forecasting or portfolio optimisation problems
 * ✨ Fun fact: I play ukulele everyday 🎸, I am also actively learning the French language on Duo 🇫🇷
-* 💸💰 I also actively manage a diversified multi-asset personal investment portfolio of both traditional and alternative assets 
+* 💰 I also actively manage a diversified multi-asset personal investment portfolio of both traditional and alternative assets 
 * 😁 Sounds interesting? Want to connect? You can reach me on LinkedIn @ https://www.linkedin.com/in/rohankuntoji/, or drop me an email 📧 rohan.kuntoji@gmail.com
 
 Cheers! Good day y'all!! 
