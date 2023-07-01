@@ -1,6 +1,6 @@
 ### Heyya!! 👋
 
-### Welcome to my humble abode!! I'm Rohan Kuntoji (he/him) 👨‍🎓  
+Welcome to my humble abode on the GitHub world!! I'm Rohan Kuntoji (he/him) 👨‍🎓  
 
 I'm currently pursuing Master's in Financial Data Science (MScFDS) at UCD Michael Smurfit Business School in Dublin, Ireland. I completed the Portfolio Manager Micro-Degree Certification offered by the Financial Edge Institute, London, which helped me develop hands on skills in financial modelling, valuation, portfolio construction, security selection (equities and fixed-income) and asset allocation. I have had the opportunity to put my learnings to practice in my current role as a portfolio manager for the Student Managed Fund at UCD. I graduated First Class with a Bachelor of Engineering from SJCE Mysore, India, in 2018, majoring in Electronics and Communication Engineering.
 
