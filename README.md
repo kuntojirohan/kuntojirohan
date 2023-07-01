@@ -12,7 +12,6 @@ Before joining UCD, I gained 3+ years of industry experience in the fast growing
 * 🤝 Always eager to collaborate on quant finance projects (asset price forecasting, risk modeling, portfolio optimisation)
 * 💰 Actively managing a diversified multi-asset personal investment portfolio since 2019
 * ✨ Fun fact: I play ukulele everyday 🎸; learning French (Bonjour!); love reading and listening podcasts on business and finance 
-* 😁 Sound interesting? Want to connect? I would love that! You can reach me on LinkedIn @ https://www.linkedin.com/in/rohankuntoji/, or email me @ 📧 rohan.kuntoji@gmail.com
 
 Cheers! Have a Great Day!! 
 
