@@ -8,13 +8,13 @@ Before joining UCD, I gained 3+ years of industry experience in the fast growing
 
 * 📚 Working toward achieving the CAIA (Chartered Alternative Investment Analyst) Charter; preparing for Sep '23 L1 exam
 * 👨🏻‍💻 Active participant and alpha research contributor on the WorldQuant BRAIN platform    
-* 🧐 Interested in quantitative research and risk management, whereby we can harness ML & NLP capabilities to enhance asset management 
+* 🧐 Interested in quantitative research and risk management, whereby we harness ML & NLP capabilities to enhance asset management 
 * 🤝 Always eager to collaborate on quant finance projects (asset price forecasting, risk modeling, portfolio optimisation)
 * 💰 Actively managing a diversified multi-asset personal investment portfolio since 2019
-* ✨ Fun fact: play ukulele everyday 🎸; learning the French language on Duo 🇫🇷; love reading & listening to podcasts in business & finance 
+* ✨ Fun fact: play ukulele everyday 🎸; learning the French language on Duo 🇫🇷; love reading and listening podcasts on business and finance 
 * 😁 Sound interesting? Want to connect? I would love that! You can reach me on LinkedIn @ https://www.linkedin.com/in/rohankuntoji/, or email me @ 📧 rohan.kuntoji@gmail.com
 
-Cheers! Good day y'all!! 
+Cheers! Have a Great Day!! 
 
 
 <!--
