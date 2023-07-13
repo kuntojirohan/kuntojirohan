@@ -11,7 +11,7 @@ Before joining UCD, I gained 3+ years of industry experience in the fast growing
 * 👨🏻‍💻 Active participant and alpha research contributor on the WorldQuant BRAIN platform    
 * 🌱 I’m currently learning quantitative research and risk management concepts, whereby we harness ML & NLP capabilities to augment asset management 
 * 🤝 Always eager to collaborate on quant finance projects (asset price forecasting, risk modeling, algo trading, portfolio optimisation) 
-* ✨ Fun fact: I play ukulele everyday 🎸; learning French (Bonjour!); love reading and listening podcasts on business and finance 
+* ✨ Fun fact: I enjoy playing ukulele 🎸; learning French (Bonjour!); love reading and listening podcasts on business and finance 
 
 
 ### 🌐 Socials:
