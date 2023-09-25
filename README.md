@@ -1,17 +1,19 @@
-## Bonjour!! 👋
+## Ahoy!! 👋
 
-Welcome to my space in the GitHub world! I'm Rohan Kuntoji (he/him) 👨‍🎓  
+Welcome to my GitHub profile! I'm Rohan Kuntoji (he/him) 👨‍🎓  
 ----
 ### 💫 About Me:
-I'm currently pursuing Master's in Financial Data Science (MScFDS) at UCD Michael Smurfit Business School in Dublin, Ireland. I completed the Portfolio Manager Micro-Degree Certification offered by the Financial Edge Institute, London, which helped me develop hands on skills in financial modelling, valuation, portfolio construction, security selection (equities and fixed-income) and asset allocation. I have had the opportunity to put my learnings to practice in my current role as a portfolio manager for the Student Managed Fund at UCD. I graduated First Class with a Bachelor of Engineering from SJCE Mysore, India, in 2018, majoring in Electronics and Communication Engineering.
+I'm a recent graduate with a Master's in Financial Data Science from UCD Michael Smurfit Business School. Additionally, I hold a Bachelor's degree in Electronics and Communication Engineering from SJCE Mysore, India.
 
-Before joining UCD, I gained 3+ years of industry experience in the fast growing Indian tech start-up ecosystem. I worked on data science and machine learning at a boutique AI research firm (focusing on FinTech projects), before joining the founding team at Dello+ in 2020 to work toward revolutionising the digital healthcare services in India and across the world. This entrepreneurial experience pushed me to understand the various facets of business operations - finance, market research & analysis, product development and stakeholder management. Most importantly, it equipped me with a strong work ethic, problem-solving skills, and an analytical mindset.
+Prior to my postgraduate studies, I gained over three years of industry experience in the dynamic Indian tech startup sector, working on data science, machine learning and SaaS product development. I worked for a boutique AI research firm focusing on FinTech projects, where I delved into time-series forecasting and portfolio optimisation problems. 
+ 
+Subsequently, I was an integral part of the founding team of Delloplus, where my contributions helped drive growth of digital connected healthcare services in India and emerging markets. My entrepreneurial experience helped me gain a better understanding of various facets of business operations, including finance, market research, product development, and stakeholder management. Above all, it strengthened my work ethic, problem-solving skills, and analytical mindset.
 
 * 📚 Working toward achieving the CAIA (Chartered Alternative Investment Analyst) Charter; preparing for Sep '23 L1 exam
-* 👨🏻‍💻 Active participant and alpha research contributor on the WorldQuant BRAIN platform    
-* 🌱 I’m currently learning quantitative research and risk management concepts, whereby we harness ML & NLP capabilities to augment asset management 
-* 🤝 Always eager to collaborate on quant finance projects (asset price forecasting, risk modeling, algo trading, portfolio optimisation) 
-* ✨ Fun fact: I enjoy playing ukulele 🎸; learning French (Bonjour!); love reading and listening podcasts on business and finance 
+* 👨🏻‍💻 Competed in the WorldQuant International Quant Championship 2023 and secured a rank among the top 7 finalists in Europe   
+* 🌱 I’m currently learning quantitative research and risk management concepts, focusing on leveraging ML & NLP capabilities to enhance quantitative modelling 
+* 🤝 Passionate about time-series forecasting and portfolio optimisation problems. Always eager to collaborate with like-minded people
+* ✨ I enjoy playing ukulele 🎸; learning French (Bonjour!); love reading, and listening to podcasts on business and finance 
 
 
 ### 🌐 Socials:
