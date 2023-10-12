@@ -5,13 +5,11 @@ Welcome to my GitHub profile! I'm Rohan Kuntoji (he/him) 👨‍🎓
 ### 💫 About Me:
 I'm a recent graduate with a Master's in Financial Data Science from UCD Michael Smurfit Business School. Additionally, I hold a Bachelor's degree in Electronics and Communication Engineering from SJCE Mysore, India.
 
-Prior to my postgraduate studies, I gained over three years of industry experience in the dynamic Indian tech startup sector, working on data science, machine learning and SaaS product development. I worked for a boutique AI research firm focusing on FinTech projects, where I delved into time-series forecasting and portfolio optimisation problems. 
- 
-Subsequently, I was an integral part of the founding team of Delloplus, where my contributions helped drive growth of digital connected healthcare services in India and emerging markets. My entrepreneurial experience helped me gain a better understanding of various facets of business operations, including finance, market research, product development, and stakeholder management. Above all, it strengthened my work ethic, problem-solving skills, and analytical mindset.
+Prior to my postgraduate studies, I gained over three years of experience, working on data science, machine learning and SaaS product development in fast-paced startups.
 
-* 📚 Working toward achieving the CAIA (Chartered Alternative Investment Analyst) Charter; preparing for Sep '23 L1 exam
-* 👨🏻‍💻 Competed in the WorldQuant International Quant Championship 2023 and secured a rank among the top 7 finalists in Europe   
-* 🌱 I’m currently learning quantitative research and risk management concepts, focusing on leveraging ML & NLP capabilities to enhance quantitative modelling 
+* 📚 Working toward achieving the CAIA (Chartered Alternative Investment Analyst) Charter; passed CAIA Level 1 exam
+* 👨🏻‍💻 Competed in the WorldQuant International Quant Championship 2023, ranking first in Ireland and top 7 finalists in Europe (stage 2 finals)  
+* 🌱 I’m currently studying quantitative research methods and risk management concepts, focusing on leveraging ML & NLP capabilities for statistical modelling  
 * 🤝 Passionate about time-series forecasting and portfolio optimisation problems. Always eager to collaborate with like-minded people
 * ✨ I enjoy playing ukulele 🎸; learning French (Bonjour!); love reading, and listening to podcasts on business and finance 
 
