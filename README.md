@@ -3,7 +3,9 @@
 Welcome to my GitHub profile! I'm Rohan Kuntoji (he/him) 👨‍🎓  
 ----
 ### 💫 About Me:
-I'm a recent graduate with a Master's in Financial Data Science from UCD Michael Smurfit Business School. Additionally, I hold a Bachelor's degree in Electronics and Communication Engineering from SJCE Mysore, India.
+I'm a Quantitative Trading Analyst on the Power Trading Desk at BGE (Centrica Group), where I develop and execute systematic, data-driven trading strategies across the Irish power markets. My work blends mathematics, finance, data science and cutting-edge AI—creating scalable solutions for both asset-backed and asset-less strategies.
+
+With a Master's in Financial Data Science and a Bachelor's in Electronics Engineering, I bring a rigorous STEM foundation and a deep understanding of advanced modelling, machine learning, and quantitative finance.
 
 Prior to my postgraduate studies, I gained over three years of experience, working on data science, machine learning and SaaS product development in fast-paced startups.
 
